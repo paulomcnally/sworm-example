@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/paulomcnally/sworm-example",
   "dependencies": {
+    "mssql": "^1.3.0",
     "sworm": "^0.4.0"
   }
 }
